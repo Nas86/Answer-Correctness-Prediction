@@ -38,9 +38,9 @@ For Modeling part,among all the models I have CatBoosting and LightBoosting have
 |--------------------------|---------|------|---------|
 
 
-<img src="/Picture/dis_time_amount.png">
-<img src="/Picture/corr.png">
-<img src="/Picture/dis.png"> 
+<img src="/pic1.png">
+<img src="/pic2.png">
+<img src="/pic3.png"> 
 ## Future Works
 Evaluate students’ performance baise on different types of questions.
 Evaluate Lecture effect on correctness of answers
