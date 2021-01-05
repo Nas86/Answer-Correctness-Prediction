@@ -41,8 +41,10 @@ For Modeling part,among all the models I have CatBoosting and LightBoosting have
 <img src="/pic1.png">
 <img src="/pic2.png">
 <img src="/pic3.png"> 
+
 ## Future Works
-Evaluate students’ performance baise on different types of questions.
-Evaluate Lecture effect on correctness of answers
-Evaluate the background of students to the correctness of answers.
-Improving the prediction model by increasing AUC and Accuracy
+
+* Evaluate students’ performance baise on different types of questions.
+* Evaluate Lecture effect on correctness of answers
+* Evaluate the background of students to the correctness of answers.
+* Improving the prediction model by increasing AUC and Accuracy
