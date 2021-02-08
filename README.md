@@ -15,6 +15,9 @@ n this project, I am going to create algorithms for "Knowledge Tracing," the mod
 ## Results :
 In this notebook, I investigated different features that are able to affect students’ performance. For this reason, I considered the relation among the different variables and students' performance. Below I bring them in briefly. 
 * Time spent on answering each question isn't related to correctness of the answers.
+
+<img src="/pic2.png">
+
 * Most of the students watched the explanation of the question when their answers were incorrect.
 * As much as students answered more questions the number of the correct and incorrect answers increased.
 * Number of wrong answers doesn't have any relation with total time spent watching lectures. 
@@ -37,7 +40,7 @@ For Modeling part,among all the models I have CatBoosting and LightBoosting have
 
 
 <img src="/pic1.png">
-<img src="/pic2.png">
+
 <img src="/pic3.png"> 
 
 ## Future Works
