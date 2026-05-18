@@ -39,3 +39,7 @@ This type of model can be used in educational platforms to:
 ## Project Purpose
 
 This project demonstrates how machine learning can be applied to behavioral data to generate insights and predictions that support decision-making systems.
+
+## Visual Results
+
+![Model Performance](add-your-image-file-here.png)
