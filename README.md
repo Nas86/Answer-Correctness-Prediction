@@ -42,4 +42,6 @@ This project demonstrates how machine learning can be applied to behavioral data
 
 ## Visual Results
 
-![Model Performance](add-your-image-file-here.png)
+![Model Performance](pic1.png)
+![Model Performance](pic2.png)
+![Model Performance](pic3.png)
